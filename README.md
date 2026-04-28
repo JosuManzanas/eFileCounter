@@ -10,6 +10,10 @@ The tool is available in two versions:
 - **Basilisk**: for modern systems  
 - **Pangolin**: for deprecated systems  
 
+## Configuration
+
+Place the `Path_Setup.txt` file in the root of the `C:\` drive:
+
 ## Author
 Developed by **Josu Manzanas**
 
