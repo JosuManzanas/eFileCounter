@@ -1,2 +1,2 @@
 # eFileCounter
-Contador de archivos en tiempo real, diseñado para control de cajas en producción.
+Real-time file counter designed for production box tracking and control.
